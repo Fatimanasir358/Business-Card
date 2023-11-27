@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
+}
+.nav{
+    display: flex;
+    background-color: 1222A;
+    padding: 50px 25px;
+    align-items: center;
+    height: 30px;
+}
+.nav h2{
+    color: 61DAFB;
+    font-weight:900;
+    font-size: x-large;
+    margin: 0;
+    margin-right: auto;
+}
+
+.nav h3{
+    color: #DEEBF8;
+    font-weight: 600 ;
+}
+
+.nav img{
+    height: 40px;
+    margin-right: 7px;
+}
